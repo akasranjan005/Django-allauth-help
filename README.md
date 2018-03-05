@@ -113,3 +113,12 @@ __author__ = "Akash Ranjan"
 
 
 This much will do :)
+
+--------------
+U P D A T E
+--------------
+
+You can now do alot more with django prebuilt modules,
+
+1. `djangorestframework-jwt`
+2. `django-rest-auth`
