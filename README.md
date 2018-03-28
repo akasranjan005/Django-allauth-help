@@ -5,7 +5,7 @@ __author__ = "Akash Ranjan"
 
 # To setup and use django-allauth (Django 1.8)
 
-### You can read about the configurations and all other setups here: http://django-allauth.readthedocs.org/en/latest/installation.html
+### You can read about the configurations and all other setups [here](http://django-allauth.readthedocs.org/en/latest/installation.html)
 
 `sudo pip install django-allauth`
 
