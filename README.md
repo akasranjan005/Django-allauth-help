@@ -122,3 +122,4 @@ You can now do alot more with django prebuilt modules,
 
 1. `djangorestframework-jwt`
 2. `django-rest-auth`
+3. `Update required for newer version of django-allauth`
